@@ -1,7 +1,7 @@
 #include <stdio.h>
-/* test 5
+/* test 2
 */
 int main() {
-  printf("<h1>Hello, Hongik!!!!!</h1>\n");
+  printf("<h1>Hello, Hongik!!</h1>\n");
   return 0;
 }
